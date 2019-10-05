@@ -1,0 +1,19 @@
+html {
+  background-color: #c9b5ab;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 1.5rem;
+}
+
+body {
+  font-size: 1.5rem;
+  color: #8f2440;
+}
+
+main.figcaption {
+  color: #222;
+}
+
+main.p{
+  color: #3f1622;
+}
